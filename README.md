@@ -16,7 +16,7 @@
 **Languages:** Python, C, Java, SQL  
 **AI/ML:** Machine Learning, Generative AI, Deep Learning, NLP  
 **IoT:** Embedded Systems, Real-Time IoT Projects  
-**Tools:** Git, GitHub, Jupyter, VS Code  power BI,aws,scikit
+**Tools:** Git, GitHub, Jupyter, VS Code,  power BI, aws, scikit
 **Core:** OOP, DBMS, OS, DSA  
 
 ---
