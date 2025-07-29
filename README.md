@@ -21,10 +21,41 @@
 
 ---
 
-## 🌟 **Projects**
-- 🔹 **AI Content Generator** – Built a generative AI model for text/image creation.  
-- 🔹 **IoT Monitoring System** – Real-time IoT data tracking and automation.  
-- 🔹 **Data Science Pipelines** – End-to-end ML models with preprocessing & visualization.  
+## 🌟 **Highlighted Projects**
+
+### **Data Science & Analytics Projects**
+
+#### 1. AI-Powered Diwali Sales Data Analysis
+- Conducted **EDA** on Diwali sales data to analyze customer behavior and seasonal sales patterns.
+- **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn  
+- Generated actionable insights that helped in **data-driven marketing strategies**.
+
+#### 2. Sales Data Analysis Dashboard (Power BI & SQL)
+- Built **interactive dashboards** to track KPIs and sales performance across regions.
+- **Tools:** Power BI, SQL, Excel  
+- Performed ETL and advanced analytics for **real-time business decision-making**.
+
+#### 3. Time Series Forecasting for Business Trends
+- Developed **machine learning models** to predict future sales and demand.
+- **Tools:** Python, Scikit-learn, Statsmodels  
+- Delivered accurate forecasts, improving **business planning and performance analysis**.
+
+---
+
+### **IoT & Embedded Systems Projects**
+
+#### 4. Location-Based Smart Attendance System
+- Designed an **IoT-based location-aware attendance system**.  
+- Automatically marks a student absent if they leave the designated campus area.
+- **Tech Stack:** NodeMCU, GPS Module, Firebase, Blynk  
+- Focused on **real-time monitoring and automation**.
+
+#### 5. IoT-Based Women’s Safety Device
+- Developed a **wearable IoT safety device** with GPS, buzzer, and panic button for instant alerts.  
+- **Key Features:** Real-time location tracking, emergency notifications, and public alert systems.
+- **Tech Stack:** NodeMCU ESP8266, NEO-6M GPS, GSM/Wi-Fi, Firebase  
+- Ensures **quick and automated response during emergencies**, aligned with **women’s safety initiatives**.
+ 
 
 *(See all projects on my [GitHub Repositories](https://github.com/sanskritijaiswal22))*  
 
